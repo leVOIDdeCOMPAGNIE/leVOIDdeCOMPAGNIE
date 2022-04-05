@@ -1,5 +1,3 @@
-### Dimitri-Gaspard
-about-me
 ### Hi there! 👋
 
 - :star: My stack <b>as is</b>:
