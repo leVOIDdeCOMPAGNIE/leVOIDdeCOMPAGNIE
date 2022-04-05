@@ -1,10 +1,7 @@
 ### Dimitri-Gaspard
 about-me
 ### Hi there! 👋
-- My name is Dima, i'm a student of Yandex.Practicum.
-- :mortar_board: I study web-dev.
-- :bell: And here you can follow my path.
- 
+
 - :star: My stack <b>as is</b>:
 <p><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
